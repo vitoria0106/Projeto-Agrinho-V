@@ -41,3 +41,29 @@ img {
 }
 
 /* código omitido */
+
+ header h1{
+      front-family: var(--front-titulo);
+      margin-bottom:10px;
+ }
+
+    nav ul li
+    list-style: none;
+    padding: 10px;
+}
+
+nav ul li {
+display: inline;
+margin: 0 15px;
+}
+
+nav ul li a {
+color: white;
+text-decoration: none;
+front-weight: bold;
+}
+
+nav ul li a: hover {
+text-decoration: underline:
+}
+
