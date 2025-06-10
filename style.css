@@ -105,4 +105,11 @@ transition: 0.3s;
     color: white;
   }
 
-  
+/* rodapé */
+footer {
+    tex-aling:center;
+    padding: 20px;
+background:ver (--primary-color);
+color: white;
+}
+
