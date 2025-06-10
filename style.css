@@ -119,6 +119,8 @@ footer .cta-footer{
     font-weight: bold 
     }
 
-    footer .cta-footer{
-
+    footer .cta-footer: hoover{
+text-decoration: underline;
     }
+
+    /* responsividade */
