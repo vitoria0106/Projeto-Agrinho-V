@@ -100,5 +100,9 @@ cursor: pointer;
 transition: 0.3s;
 }
 
-.cta-button :hover{
-    
+.cta-button :hover
+    background:ver (--button-hover)
+    color: white;
+  }
+
+  
